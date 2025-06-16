@@ -1,0 +1,1 @@
+<!-- This page is redirected to introduction/about-this-style-guide.md -->

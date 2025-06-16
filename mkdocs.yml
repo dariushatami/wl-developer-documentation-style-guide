@@ -1,0 +1,62 @@
+site_name: WellnessLiving developer documentation style guide
+site_url: https://website.here
+
+nav:
+  - Introduction:
+      - About this style guide: introduction/about-this-style-guide.md
+
+theme:
+  name: material
+  font:
+    text: Fira Sans
+    code: Fira Mono
+  logo: assets/wl_flower_500_wl_logo_v3_icon.png
+  favicon: assets/wl_flower_500_wl_logo_v3_icon.png
+  features:
+    - navigation.footer
+    - navigation.sections
+    - toc.follow
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+
+plugins:
+  - search
+  - redirects:
+      redirect_maps:
+        index.md: introduction/about-this-style-guide.md
+
+extra:
+  social:
+    - icon: simple/github
+      link: https://github.com/dariushatami
+
+copyright: Copyright &copy; 2025 Darius Hatami

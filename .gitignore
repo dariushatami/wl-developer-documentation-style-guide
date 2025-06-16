@@ -1,0 +1,20 @@
+# MkDocs build
+/site
+
+# Project-specific folders
+testing/
+
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code project settings
+.vscode/
+
+# OS junk (macOS)
+.DS_Store
