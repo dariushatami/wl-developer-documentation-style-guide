@@ -5,6 +5,8 @@ nav:
   - Introduction:
       - About this style guide: introduction/about-this-style-guide.md
       - Audience: introduction/audience.md
+  - General principles:
+      - Clear writing: general-principles/clear-writing.md
 theme:
   name: material
   font:
