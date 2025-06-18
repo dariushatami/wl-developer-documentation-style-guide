@@ -7,8 +7,6 @@
 
 **Maintainer:** [Darius Hatami](mailto:darius@wellnessliving.com)
 
----
-
 ## Overview
 
 This repository defines the **WellnessLiving Developer Documentation Style Guide**, providing standards and recommendations to ensure consistency, clarity, and professionalism in all developer-facing documentation (e.g., API references, tutorials, process documentation, and public docs).
