@@ -1,6 +1,6 @@
 # About this style guide
 
-The WellnessLiving developer documentation style guide, authored by Darius Hatami (Senior Technical Writer, Engineering), outlines standards for WellnessLiving's technical documentation. 
+The WellnessLiving Developer Documentation Style Guide, authored by Darius Hatami (Senior Technical Writer, Engineering), outlines standards for WellnessLiving's technical documentation. 
 
 This guide is also available on GitHub:
 
