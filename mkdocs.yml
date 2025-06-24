@@ -7,8 +7,10 @@ nav:
       - Audience: introduction/audience.md
   - General principles:
       - Clear writing: general-principles/clear-writing.md
-      - Technical accuracy: general-principles/technical-accuracy.md
       - Developer-focused tone: general-principles/developer-focused-tone.md
+      - Technical accuracy: general-principles/technical-accuracy.md
+  - Accessibility:
+      - Bias-free communication: accessibility/bias-free-communication.md
 theme:
   name: material
   font:
