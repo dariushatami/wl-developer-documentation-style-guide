@@ -6,7 +6,13 @@
 
 ## Overview
 
-This repository defines the **WellnessLiving Developer Documentation Style Guide**, providing standards and recommendations to ensure consistency, clarity, and professionalism in all developer-facing documentation (e.g., API references, tutorials, process documentation, and public docs).
+This repository defines the **WellnessLiving Developer Documentation Style Guide**, providing standards and recommendations to ensure consistency, clarity, and professionalism in all developer-facing documentation for the WellnessLiving platform.
+
+The WellnessLiving platform includes:
+
+* The WellnessLiving monolith and its products and features (e.g., A)
+* WellnessLiving microservices (e.g. Explorer, FitBUILDER, widgets)
+* Acquired products and companies (e.g., Concerto's conversation assistant)
 
 ## License
 

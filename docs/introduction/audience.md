@@ -4,20 +4,24 @@ The audience for WellnessLiving’s developer documentation includes both intern
 Internal stakeholders are primarily members of the engineering department and adjacent technical teams.
 
 ### Roles include:
+* API developers
 * Backend developers
 * Data engineers
-* DevOps engineers
+* DevOps/platform engineers
 * Engineering managers
 * Frontend developers
+* Fullstack developers
+* LLM engineers/prompt engineers
 * Machine learning engineers
 * Mobile developers
-* QA analysts
+* QA engineers
 * Security engineers
-* Solutions architects
+* Solution architects
 * Technical leads
 * Technical product managers
 * Technical project managers
 * Technical support engineers
+* Technical writers
 * UX/UI designers
 
 ## External stakeholders
