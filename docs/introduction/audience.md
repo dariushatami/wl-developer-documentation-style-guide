@@ -16,7 +16,7 @@ Internal stakeholders are primarily members of the engineering department and ad
 * Mobile developers
 * QA engineers
 * Security engineers
-* Solution architects
+* Solutions architects
 * Technical leads
 * Technical product managers
 * Technical project managers

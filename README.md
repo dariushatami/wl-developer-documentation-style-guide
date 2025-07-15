@@ -10,7 +10,7 @@ This repository defines the **WellnessLiving Developer Documentation Style Guide
 
 The WellnessLiving platform includes:
 
-* The WellnessLiving monolith and its products and features (e.g., A)
+* The WellnessLiving monolith and its products and features (e.g., reports, schedule, FitVID on Demand)
 * WellnessLiving microservices (e.g. Explorer, FitBUILDER, widgets)
 * Acquired products and companies (e.g., Concerto's conversation assistant)
 

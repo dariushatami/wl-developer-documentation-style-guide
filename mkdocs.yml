@@ -11,6 +11,8 @@ nav:
       - Technical accuracy: general-principles/technical-accuracy.md
   - Accessibility:
       - Bias-free communication: accessibility/bias-free-communication.md
+      - Human-computer interaction: accessibility/human-computer-interaction.md
+      - Internationalization and localization: accessibility/internationalization-and-localization.md
 theme:
   name: material
   font:
