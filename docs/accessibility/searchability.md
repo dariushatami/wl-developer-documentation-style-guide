@@ -11,8 +11,8 @@ Use the following strategies to improve your documentation’s searchability.
 * Cross-link to related pages using their titles, not vague phrases.
 
 For example:
-* ❌ **(Bad)** For more info, [click here](...).
-* ✅ **(Good)** Learn more in the [Class booking API Reference](...).
+* ✅ **Good:** Learn more in the [Class booking API Reference](...).
+* ❌ **Bad:**: For more info, [click here](...).
 
 ## Avoid unnecessary synonyms
 * Standardize naming for recurring concepts:
