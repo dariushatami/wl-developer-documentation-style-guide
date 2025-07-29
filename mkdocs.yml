@@ -13,6 +13,9 @@ nav:
       - Bias-free communication: accessibility/bias-free-communication.md
       - Human-computer interaction: accessibility/human-computer-interaction.md
       - Internationalization and localization: accessibility/internationalization-and-localization.md
+  - Formatting:
+      - Dates and times: formatting/dates-and-times.md
+      - Measurement units: formatting/measurement-units.md
 theme:
   name: material
   font:

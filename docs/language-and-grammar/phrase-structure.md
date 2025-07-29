@@ -88,7 +88,7 @@ The style protocols below are not exhaustive, but they address critical, common 
 
 !!! note
     
-    For additional formatting guidelines for API fields and parameters, see the WellnessLiving API design guide.
+    For additional formatting guidelines for API fields and parameters, see the [WellnessLiving API design guide](https://github.com/wellnessliving-digital/api-design-guide).
 
 ### Where to use:
 * Use **schema phrases** exclusively in schemas, code examples, API specifications, and developer guides. 
